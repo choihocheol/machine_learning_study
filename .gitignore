@@ -1,0 +1,4 @@
+checkpoints
+source
+.DS_Store
+mnist.npz
